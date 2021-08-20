@@ -13,6 +13,6 @@ Planering av Byggnad i Helsingborg
 
 {:.list-inline}
 - Date: October 2019
-- Client: Lines
-- Category: Branding
+- Client: Peab
+- Category: Projektering
 

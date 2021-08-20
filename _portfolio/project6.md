@@ -13,6 +13,6 @@ Besikning av parkeringshus i Lund.
 
 {:.list-inline}
 - Date: October 2019
-- Client: Window
-- Category: Photography
+- Client: NCC
+- Category: Besiktning
 

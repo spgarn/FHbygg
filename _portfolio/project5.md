@@ -13,6 +13,6 @@ Planering av byggnad i Malmö.
 
 {:.list-inline}
 - Date: October 2019
-- Client: Southwest
-- Category: Website Design
+- Client: Boklok
+- Category: Projektering
 
