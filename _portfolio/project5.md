@@ -1,6 +1,6 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Vattenhuset
+subtitle: Vattenhuset Malmö.
 image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/05-full.jpg
 alt: 
 
