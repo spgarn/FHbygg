@@ -109,7 +109,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Simon Gärtner"
         role: "Fix och Trix"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/2.png
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
